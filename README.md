@@ -15,8 +15,8 @@ Este repositorio está dedicado a la práctica y desarrollo de ejercicios relaci
 
 ## 🛠️ Herramientas Utilizadas
 - Python 3.x  
-- Pandas, NumPy, Matplotlib, Seaborn  
-- Jupyter Notebook  
+- Pandas, NumPy, Matplotlib
+  
 
 ## 🚀 Cómo Usar este Repositorio
 1. Clonar el repositorio:
